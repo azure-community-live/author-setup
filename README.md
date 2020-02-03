@@ -11,9 +11,16 @@ Once speaker agrees to a date and time, do the following:
 
 ## Speaker logistics for the event
 We will use Skype to capture the speaker’s video and screen share.  The host will pull the different feeds together and stream them to YouTube.  The speaker should have access to:
--	Skype
--	Webcam
+-	Skype ([Windows Desktop version](https://www.skype.com/en/get-skype/download-skype-for-desktop/))
+-	Webcam, preferably at least 720p in resolution.
 -	Microphone & headphones.  We discourage the use of microphones built-in to the speaker’s laptop.
+
+## Speaker Tips and Guidelines
+
+* Use an external mouse. Don't use a laptop touchpad or in-built mouse. The physical clicking can be _very_ loud on the audio.
+* Use a headset or external microphone. Using a laptop mic can sound echo-y and "noisy".
+* Check the Skype chat for questions throughout the presentation. 
+* Be aware of the time. Talks should be kept under 60 minutes. 
 
 ## Preparing for the event
 ### The night before the event: Create a Future steam on YouTube and setup OBS
